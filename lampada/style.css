@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.box button {
+  background-color: #1b78d0;
+  color: #fff;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
